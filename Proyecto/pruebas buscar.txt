@@ -1,0 +1,4 @@
+A: "Mis Documentos" "Contabilidad Paralela" \empresa \end
+A: "Mis Documentos" \end
+A: "Mis Documentos" "Contabilidad Paralela" \end
+A: "Mis Documentos" "Contabilidad Paralela" \empresa \libro1.xlsmar \end

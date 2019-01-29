@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1449010850 source:c:\users\andrésfelipe\desktop\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	"TAD.h"
+	"cadenas.h"
+	"hoja.h"
+	"reporte.h"
+
+1448996672 c:\users\andrésfelipe\desktop\proyecto\tad.h
+	<iostream>
+
+1448995584 c:\users\andrésfelipe\desktop\proyecto\cadenas.h
+	<iostream>
+	<cstring>
+
+1449010850 c:\users\andrésfelipe\desktop\proyecto\hoja.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1449003805 c:\users\andrésfelipe\desktop\proyecto\reporte.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1449011100 source:c:\users\andrésfelipe\desktop\proyecto unido\main.cpp
+	<iostream>
+	<fstream>
+	"TAD.h"
+	"cadenas.h"
+	"hoja.h"
+	"reporte.h"
+
+1448996672 c:\users\andrésfelipe\desktop\proyecto unido\tad.h
+	<iostream>
+
+1448995584 c:\users\andrésfelipe\desktop\proyecto unido\cadenas.h
+	<iostream>
+	<cstring>
+
+1449011202 c:\users\andrésfelipe\desktop\proyecto unido\hoja.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1449003805 c:\users\andrésfelipe\desktop\proyecto unido\reporte.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1449021927 source:c:\users\techcom\desktop\proyecto unido\main.cpp
+	<iostream>
+	<fstream>
+	"TAD.h"
+	"cadenas.h"
+	"hoja.h"
+	"reporte.h"
+
+1448996674 c:\users\techcom\desktop\proyecto unido\tad.h
+	<iostream>
+
+1448995586 c:\users\techcom\desktop\proyecto unido\cadenas.h
+	<iostream>
+	<cstring>
+
+1449011204 c:\users\techcom\desktop\proyecto unido\hoja.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1449003806 c:\users\techcom\desktop\proyecto unido\reporte.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1449025168 source:c:\users\techcom\desktop\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	"TAD.h"
+	"cadenas.h"
+	"hoja.h"
+	"reporte.h"
+
+1448996674 c:\users\techcom\desktop\proyecto\tad.h
+	<iostream>
+
+1448995586 c:\users\techcom\desktop\proyecto\cadenas.h
+	<iostream>
+	<cstring>
+
+1449011204 c:\users\techcom\desktop\proyecto\hoja.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1449003806 c:\users\techcom\desktop\proyecto\reporte.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1449027366 source:e:\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	"TAD.h"
+	"cadenas.h"
+	"hoja.h"
+	"reporte.h"
+
+1448996674 e:\proyecto\tad.h
+	<iostream>
+
+1448995586 e:\proyecto\cadenas.h
+	<iostream>
+	<cstring>
+
+1449011204 e:\proyecto\hoja.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1449003806 e:\proyecto\reporte.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1449027366 source:g:\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	"TAD.h"
+	"cadenas.h"
+	"hoja.h"
+	"reporte.h"
+
+1448996674 g:\proyecto\tad.h
+	<iostream>
+
+1448995586 g:\proyecto\cadenas.h
+	<iostream>
+	<cstring>
+
+1449011204 g:\proyecto\hoja.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1449003806 g:\proyecto\reporte.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+

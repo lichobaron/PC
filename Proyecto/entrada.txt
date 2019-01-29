@@ -1,0 +1,16 @@
+"Mis Documentos" A:
+"Mis Documentos" C:
+"Mis Archivos Recibidos" "Mis Documentos"
+"Hojas de Calculo" "Mis Documentos"
+"mi foto en la playa.jpg" "Mis Documentos"
+empresa "Contabilidad Paralela"
+conversaciones programacion
+todas_las_fotos.arch "Mis Documentos"
+libro1.xlsmar empresa
+"Contabilidad Paralela" "Mis Documentos"
+Dolores_de_nino.txt conversaciones
+Yo_borracho.jpg "Mis Archivos Recibidos"
+programacion "Contabilidad Paralela"
+hola "Mis Archivos Recibidos" elenanitodelbosque.txt empresa
+andreselpro.txt empresa
+carloslnob.txt empresa
